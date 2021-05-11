@@ -1,6 +1,3 @@
-
-
-
 lst1=[]
 def count(lst):
     for i in lst:
